@@ -1,0 +1,49 @@
+#titulo{
+    color:black;
+    font-size:40px;
+    text-align: center;
+   
+}
+p {
+    color:black;
+    font-size: 20px;
+    font-family: cursive;
+    text-align: center;
+    
+}
+#contenedor{
+    text-align: center;   
+}
+
+#logojunta{
+    
+    height: 100px;
+    width: 100px; 
+    
+}
+
+.enlace{
+    color: brown;
+    font-size: 20 px;
+    font-family:arial;
+  
+}
+
+
+#amigos{
+    padding-top: 150px;
+    text-align: center;
+    font-family:cursive;
+    font-size: 20px;
+}
+
+#posJunta{
+ text-align: left;
+ font-size: 30px; 
+}
+
+#logoPos{
+    text-align: left;
+    height: 100px;
+    width:  100px;
+}
