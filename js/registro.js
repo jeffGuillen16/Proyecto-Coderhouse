@@ -33,7 +33,7 @@ function guardarDatos(){
   } 
   
   var cont=0; 
-  addButton.onclick=agregar
+  addButton.onclick=agregar;
   
     
 

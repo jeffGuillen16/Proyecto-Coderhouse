@@ -1,0 +1,28 @@
+#lista{
+    text-align: center;
+    position: relative;
+    bottom: 180px;
+    font-size: 25px;
+    background: gray;
+    
+    
+}
+
+#lista a{
+    text-decoration: none;
+    margin: 0px 50px 0px 50px;
+    color: white;
+}
+#nameLogo{
+position: relative;
+bottom:140px;
+left: 40px;
+top:-90px;
+}
+#imgLogo{
+ width: 100px;
+ height: 100px;
+ position: relative;
+ top: 70px;
+ left: 20px;
+}
