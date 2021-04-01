@@ -28,7 +28,7 @@ function guardarDatos(){
     alert("agregado");
     cont++;
   }else{
-    alert("nose agrega")
+    alert("nose mas agrega perrito malvado")
   }
   } 
   
